@@ -13,6 +13,11 @@
 poetry install --with test,docs
 ```
 
+## Resources
+
+- [Managing environments | Documentation | Poetry - Python dependency management and packaging made easy](https://python-poetry.org/docs/managing-environments/)
+- [Modern Python Environments - dependency and workspace management | TestDriven.io](https://testdriven.io/blog/python-environments/)
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
