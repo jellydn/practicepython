@@ -9,7 +9,9 @@
 
 ## Usage
 
-TBD
+```sh
+poetry install --with test,docs
+```
 
 ## Show your support
 
