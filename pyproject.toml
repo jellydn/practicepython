@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "practicepython"
+version = "0.1.0"
+description = "Learn Python By Example"
+authors = ["Huynh Duc Dung <dunghd.it@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
