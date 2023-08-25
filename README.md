@@ -6,6 +6,7 @@
 ## Prerequisites
 
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+- [prefix-dev/pixi: Package management made easy](https://github.com/prefix-dev/pixi)
 
 ## Usage
 
