@@ -12,7 +12,7 @@ python = "3.12.2"
 [tool.poetry.group.test] # This part can be left out
 
 [tool.poetry.group.test.dependencies]
-pytest = "8.0.2"
+pytest = "8.1.0"
 pytest-mock = "3.12.0"
 
 [tool.poetry.group.docs]
