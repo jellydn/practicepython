@@ -13,7 +13,7 @@ python = "3.13.3"
 
 [tool.poetry.group.test.dependencies]
 pytest = "8.3.5"
-pytest-mock = "3.14.0"
+pytest-mock = "3.14.1"
 
 [tool.poetry.group.docs]
 optional = true
