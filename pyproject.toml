@@ -7,7 +7,7 @@ license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.13.4"
+python = "3.13.5"
 
 [tool.poetry.group.test] # This part can be left out
 
