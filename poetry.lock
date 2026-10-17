@@ -389,13 +389,13 @@ dev = ["argcomplete", "attrs (>=19.2)", "hypothesis (>=3.56)", "mock", "requests
 
 [[package]]
 name = "pytest-mock"
-version = "3.16.0"
+version = "3.17.0"
 description = "Thin-wrapper around the mock package for easier use with pytest"
 optional = false
 python-versions = ">=3.10"
 files = [
-    {file = "pytest_mock-3.16.0-py3-none-any.whl", hash = "sha256:007cfeb257801d88d9c0b2a7b5a15a15e73b71968dfd72e7bf8c4a2f8393aec8"},
-    {file = "pytest_mock-3.16.0.tar.gz", hash = "sha256:5a8395528b8f498205f3718f575228d0edaed7425fff638f87d1a6c3e0383636"},
+    {file = "pytest_mock-3.17.0-py3-none-any.whl", hash = "sha256:1b82aa4b37137248bd687055e109723debeb07b489de1565297dc9589c5f2d6b"},
+    {file = "pytest_mock-3.17.0.tar.gz", hash = "sha256:e36576e0985e01027e999891e7a966c67822d40c89ef1b4c8b6e22737e3590b4"},
 ]
 
 [package.dependencies]
@@ -570,4 +570,4 @@ watchmedo = ["PyYAML (>=3.10)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "3.15.0"
-content-hash = "3c78503a5eed080a35438dd03343646fe0da0ab612332e170e00487100e58417"
+content-hash = "567125573939b7e4174e0f56d56b2b9ff1c900ecf1f2f1a8e2599df098905670"
